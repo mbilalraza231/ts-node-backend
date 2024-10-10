@@ -1,3 +1,4 @@
-("Hello World");
-
-("Hello World");
+// const flag = true
+// if (flag) {
+//     console.log('hello world')
+// }
